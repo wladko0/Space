@@ -1,0 +1,442 @@
+# depslib dependency file v1.0
+1510178280 source:d:\diadoxx\diadoxx source\pdiaspora_client\common.cpp
+	"common.h"
+	"database_common.h"
+
+1461673542 d:\diadoxx\diadoxx source\pdiaspora_client\common.h
+	<string>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<sys/timeb.h>
+	<math.h>
+	<windows.h>
+	<direct.h>
+	<unistd.h>
+	<sys/stat.h>
+
+1509719732 d:\diadoxx\diadoxx source\pdiaspora_client\database_common.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1509537998 source:d:\diadoxx\diadoxx source\pdiaspora_client\database_common.cpp
+	"main.h"
+
+1515652798 d:\diadoxx\diadoxx source\pdiaspora_client\main.h
+	<SDL/SDL.h>
+	<SDL/SDL_thread.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_gfxPrimitives.h>
+	<SDL/SDL_rotozoom.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<math.h>
+	<vector>
+	<string>
+	<algorithm>
+	<windows.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<sys/param.h>
+	<sys/ioctl.h>
+	<gloox/client.h>
+	<gloox/messagehandler.h>
+	<gloox/presencehandler.h>
+	<gloox/rostermanager.h>
+	<gloox/connectionlistener.h>
+	<gloox/rosterlistener.h>
+	<gloox/registration.h>
+	<gloox/registrationhandler.h>
+	<curl/curl.h>
+	"database_common.h"
+	"common.h"
+	"form.h"
+
+1511386961 d:\diadoxx\diadoxx source\pdiaspora_client\form.h
+
+1295030412 source:d:\diadoxx\diadoxx source\pdiaspora_client\jabber.cpp
+	"main.h"
+
+1460185985 source:d:\diadoxx\diadoxx source\pdiaspora_client\memory.cpp
+	"main.h"
+
+1512116727 source:d:\diadoxx\diadoxx source\pdiaspora_client\server.cpp
+	"main.h"
+
+1460298683 source:d:\diadoxx\diadoxx source\pdiaspora_client\sock.cpp
+	"main.h"
+
+1511378811 source:d:\diadoxx\diadoxx source\pdiaspora_client\window_bar.cpp
+	"main.h"
+
+1459520459 source:d:\diadoxx\diadoxx source\pdiaspora_client\window_bounty.cpp
+	"main.h"
+
+1460607909 source:d:\diadoxx\diadoxx source\pdiaspora_client\window_guild_editor.cpp
+	"main.h"
+
+1460609742 source:d:\diadoxx\diadoxx source\pdiaspora_client\window_guild_editor_more.cpp
+	"main.h"
+
+1297998676 source:d:\diadoxx\diadoxx source\pdiaspora_client\window_guild_editor_more2.cpp
+	"main.h"
+
+1461507762 source:d:\diadoxx\diadoxx source\pdiaspora_client\window_hanger.cpp
+	"main.h"
+
+1511426763 source:d:\diadoxx\diadoxx source\pdiaspora_client\window_map.cpp
+	"main.h"
+
+1510240397 source:d:\diadoxx\diadoxx source\pdiaspora_client\window_shop.cpp
+	"main.h"
+
+1512503201 source:d:\diadoxx\diadoxx source\pdiaspora_client\window_space.cpp
+	"main.h"
+
+1462462973 source:d:\diadoxx\diadoxx source\pdiaspora_client\window_trade_items.cpp
+	"main.h"
+
+1515449640 source:d:\diadoxx\diadoxx source\pdiaspora_client\form.cpp
+	"main.h"
+	<sstream>
+
+1515592384 source:d:\diadoxx\diadoxx source\pdiaspora_client\game.cpp
+	"main.h"
+	"win_clipboard.h"
+
+1275609212 d:\diadoxx\diadoxx source\pdiaspora_client\win_clipboard.h
+	<windows.h>
+	<windows.h>
+
+1515450176 source:d:\diadoxx\diadoxx source\pdiaspora_client\hub.cpp
+	"main.h"
+
+1515450304 source:d:\diadoxx\diadoxx source\pdiaspora_client\protocol.cpp
+	"main.h"
+
+1515435293 source:d:\diadoxx\diadoxx source\pdiaspora_client\resource.rc
+
+1515450508 source:d:\diadoxx\diadoxx source\pdiaspora_client\sdl.cpp
+	"main.h"
+	"dblclick.h"
+	<iostream>
+
+1515449128 d:\diadoxx\diadoxx source\pdiaspora_client\dblclick.h
+	"SDL/SDL.h"
+
+1515459013 source:d:\diadoxx\diadoxx source\pdiaspora_client\web_access.cpp
+	"main.h"
+
+1515652920 source:d:\diadoxx\diadoxx source\pdiaspora_client\database.cpp
+	"main.h"
+
+1515655742 source:d:\diadoxx\diadoxx source\pdiaspora_client\main.cpp
+	"main.h"
+	<windows.h>
+	<imagehlp.h>
+	<sstream>
+
+1510178280 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\common.cpp
+	"common.h"
+	"database_common.h"
+
+1461677142 c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\common.h
+	<string>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<sys/timeb.h>
+	<math.h>
+	<windows.h>
+	<direct.h>
+	<unistd.h>
+	<sys/stat.h>
+
+1509719732 c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\database_common.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1573241626 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\database.cpp
+	"main.h"
+
+1515652798 c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\main.h
+	<SDL/SDL.h>
+	<SDL/SDL_thread.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_gfxPrimitives.h>
+	<SDL/SDL_rotozoom.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<math.h>
+	<vector>
+	<string>
+	<algorithm>
+	<windows.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<sys/param.h>
+	<sys/ioctl.h>
+	<gloox/client.h>
+	<gloox/messagehandler.h>
+	<gloox/presencehandler.h>
+	<gloox/rostermanager.h>
+	<gloox/connectionlistener.h>
+	<gloox/rosterlistener.h>
+	<gloox/registration.h>
+	<gloox/registrationhandler.h>
+	<curl/curl.h>
+	"database_common.h"
+	"common.h"
+	"form.h"
+
+1511386961 c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\form.h
+
+1509537998 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\database_common.cpp
+	"main.h"
+
+1515449640 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\form.cpp
+	"main.h"
+	<sstream>
+
+1515592384 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\game.cpp
+	"main.h"
+	"win_clipboard.h"
+
+1275612812 c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\win_clipboard.h
+	<windows.h>
+	<windows.h>
+
+1515450176 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\hub.cpp
+	"main.h"
+
+1295030412 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\jabber.cpp
+	"main.h"
+
+1573241579 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\main.cpp
+	"main.h"
+	<windows.h>
+	<imagehlp.h>
+	<sstream>
+
+1460189585 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\memory.cpp
+	"main.h"
+
+1515450304 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\protocol.cpp
+	"main.h"
+
+1515435293 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\resource.rc
+
+1573241347 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\sdl.cpp
+	"main.h"
+	"dblclick.h"
+	<iostream>
+
+1515449128 c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\dblclick.h
+	"SDL/SDL.h"
+
+1512116727 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\server.cpp
+	"main.h"
+
+1460302283 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\sock.cpp
+	"main.h"
+
+1515459013 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\web_access.cpp
+	"main.h"
+
+1511378811 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\window_bar.cpp
+	"main.h"
+
+1459524059 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\window_bounty.cpp
+	"main.h"
+
+1460611509 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\window_guild_editor.cpp
+	"main.h"
+
+1460613342 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\window_guild_editor_more.cpp
+	"main.h"
+
+1297998676 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\window_guild_editor_more2.cpp
+	"main.h"
+
+1461511362 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\window_hanger.cpp
+	"main.h"
+
+1510240397 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\window_shop.cpp
+	"main.h"
+
+1512503201 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\window_space.cpp
+	"main.h"
+
+1462466573 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\window_trade_items.cpp
+	"main.h"
+
+1573237396 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_client\window_map.cpp
+	"main.h"
+
+1510185482 source:c:\users\windows11\downloads\lightspace\pdiaspora_client\common.cpp
+	"common.h"
+	"database_common.h"
+
+1763501912 c:\users\windows11\downloads\lightspace\pdiaspora_client\common.h
+	<string>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<sys/timeb.h>
+	<math.h>
+	<windows.h>
+	<direct.h>
+	<unistd.h>
+	<sys/stat.h>
+
+1509726934 c:\users\windows11\downloads\lightspace\pdiaspora_client\database_common.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1573680428 source:c:\users\windows11\downloads\lightspace\pdiaspora_client\database.cpp
+	"main.h"
+
+1763500863 c:\users\windows11\downloads\lightspace\pdiaspora_client\main.h
+	<SDL/SDL.h>
+	<SDL/SDL_thread.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_gfxPrimitives.h>
+	<SDL/SDL_rotozoom.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<math.h>
+	<vector>
+	<string>
+	<algorithm>
+	<windows.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<sys/param.h>
+	<sys/ioctl.h>
+	<gloox/client.h>
+	<gloox/messagehandler.h>
+	<gloox/presencehandler.h>
+	<gloox/rostermanager.h>
+	<gloox/connectionlistener.h>
+	<gloox/rosterlistener.h>
+	<gloox/registration.h>
+	<gloox/registrationhandler.h>
+	<curl/curl.h>
+	"database_common.h"
+	"common.h"
+	"form.h"
+
+1511394162 c:\users\windows11\downloads\lightspace\pdiaspora_client\form.h
+
+1509545200 source:c:\users\windows11\downloads\lightspace\pdiaspora_client\database_common.cpp
+	"main.h"
+
+1515456842 source:c:\users\windows11\downloads\lightspace\pdiaspora_client\form.cpp
+	"main.h"
+	<sstream>
+
+1515599586 source:c:\users\windows11\downloads\lightspace\pdiaspora_client\game.cpp
+	"main.h"
+	"win_clipboard.h"
+
+1275616412 c:\users\windows11\downloads\lightspace\pdiaspora_client\win_clipboard.h
+	<windows.h>
+	<windows.h>
+
+1515457378 source:c:\users\windows11\downloads\lightspace\pdiaspora_client\hub.cpp
+	"main.h"
+
+1295037612 source:c:\users\windows11\downloads\lightspace\pdiaspora_client\jabber.cpp
+	"main.h"
+
+1763500303 source:c:\users\windows11\downloads\lightspace\pdiaspora_client\main.cpp
+	"main.h"
+	<windows.h>
+	<imagehlp.h>
+	<sstream>
+
+1460193186 source:c:\users\windows11\downloads\lightspace\pdiaspora_client\memory.cpp
+	"main.h"
+
+1515457506 source:c:\users\windows11\downloads\lightspace\pdiaspora_client\protocol.cpp
+	"main.h"
+
+1515442494 source:c:\users\windows11\downloads\lightspace\pdiaspora_client\resource.rc
+
+1573248548 source:c:\users\windows11\downloads\lightspace\pdiaspora_client\sdl.cpp
+	"main.h"
+	"dblclick.h"
+	<iostream>
+
+1515456330 c:\users\windows11\downloads\lightspace\pdiaspora_client\dblclick.h
+	"SDL/SDL.h"
+
+1512123928 source:c:\users\windows11\downloads\lightspace\pdiaspora_client\server.cpp
+	"main.h"
+
+1460305884 source:c:\users\windows11\downloads\lightspace\pdiaspora_client\sock.cpp
+	"main.h"
+
+1515466214 source:c:\users\windows11\downloads\lightspace\pdiaspora_client\web_access.cpp
+	"main.h"
+
+1511386012 source:c:\users\windows11\downloads\lightspace\pdiaspora_client\window_bar.cpp
+	"main.h"
+
+1459527660 source:c:\users\windows11\downloads\lightspace\pdiaspora_client\window_bounty.cpp
+	"main.h"
+
+1460615110 source:c:\users\windows11\downloads\lightspace\pdiaspora_client\window_guild_editor.cpp
+	"main.h"
+
+1460616944 source:c:\users\windows11\downloads\lightspace\pdiaspora_client\window_guild_editor_more.cpp
+	"main.h"
+
+1298005876 source:c:\users\windows11\downloads\lightspace\pdiaspora_client\window_guild_editor_more2.cpp
+	"main.h"
+
+1461514964 source:c:\users\windows11\downloads\lightspace\pdiaspora_client\window_hanger.cpp
+	"main.h"
+
+1573244598 source:c:\users\windows11\downloads\lightspace\pdiaspora_client\window_map.cpp
+	"main.h"
+
+1510247598 source:c:\users\windows11\downloads\lightspace\pdiaspora_client\window_shop.cpp
+	"main.h"
+
+1512510402 source:c:\users\windows11\downloads\lightspace\pdiaspora_client\window_space.cpp
+	"main.h"
+
+1462470174 source:c:\users\windows11\downloads\lightspace\pdiaspora_client\window_trade_items.cpp
+	"main.h"
+

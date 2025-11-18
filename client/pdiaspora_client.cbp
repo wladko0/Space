@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="diadoxx" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="diadoxx" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+			</Target>
+		</Build>
+		<Linker>
+			<Add option="C:/TDM-GCC-32/lib/SDL_ttf.lib" />
+			<Add library="mingw32" />
+			<Add library="SDLmain" />
+			<Add library="SDL" />
+			<Add library="SDL_image" />
+			<Add library="ws2_32" />
+			<Add library="SDL_gfx" />
+			<Add library="curldll" />
+			<Add library="imagehlp" />
+		</Linker>
+		<Unit filename="common.cpp" />
+		<Unit filename="common.h" />
+		<Unit filename="database.cpp" />
+		<Unit filename="database_common.cpp" />
+		<Unit filename="database_common.h" />
+		<Unit filename="form.cpp" />
+		<Unit filename="form.h" />
+		<Unit filename="game.cpp" />
+		<Unit filename="hub.cpp" />
+		<Unit filename="jabber.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="main.h" />
+		<Unit filename="memory.cpp" />
+		<Unit filename="memory.h" />
+		<Unit filename="protocol.cpp" />
+		<Unit filename="resource.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="sdl.cpp" />
+		<Unit filename="server.cpp" />
+		<Unit filename="sock.cpp" />
+		<Unit filename="web_access.cpp" />
+		<Unit filename="win_clipboard.h" />
+		<Unit filename="window_bar.cpp" />
+		<Unit filename="window_bounty.cpp" />
+		<Unit filename="window_guild_editor.cpp" />
+		<Unit filename="window_guild_editor_more.cpp" />
+		<Unit filename="window_guild_editor_more2.cpp" />
+		<Unit filename="window_hanger.cpp" />
+		<Unit filename="window_map.cpp" />
+		<Unit filename="window_shop.cpp" />
+		<Unit filename="window_space.cpp" />
+		<Unit filename="window_trade_items.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
