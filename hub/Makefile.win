@@ -1,0 +1,63 @@
+# Project: pdiaspora_hub
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe -D__DEBUG__
+CC   = gcc.exe -D__DEBUG__
+WINDRES = windres.exe
+RES  = 
+OBJ  = admin.o common.o database.o database_auto.o database_common.o database_mysql.o main.o memory.o protocal.o server.o sock.o user.o $(RES)
+LINKOBJ  = admin.o common.o database.o database_auto.o database_common.o database_mysql.o main.o memory.o protocal.o server.o sock.o user.o $(RES)
+LIBS =  -L"lib" -lws2_32   -g3 
+INCS =  -I"include" 
+CXXINCS =  -I"lib/gcc/mingw32/3.4.2/include"  -I"include/c++/3.4.2/backward"  -I"include/c++/3.4.2/mingw32"  -I"include/c++/3.4.2"  -I"include" 
+BIN  = pdiaspora_hub.exe
+CXXFLAGS = $(CXXINCS)   -w -O3 -g3
+CFLAGS = $(INCS)   -w -O3 -g3
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before pdiaspora_hub.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "pdiaspora_hub.exe" $(LIBS)
+
+admin.o: admin.cpp
+	$(CPP) -c admin.cpp -o admin.o $(CXXFLAGS)
+
+common.o: common.cpp
+	$(CPP) -c common.cpp -o common.o $(CXXFLAGS)
+
+database.o: database.cpp
+	$(CPP) -c database.cpp -o database.o $(CXXFLAGS)
+
+database_auto.o: database_auto.cpp
+	$(CPP) -c database_auto.cpp -o database_auto.o $(CXXFLAGS)
+
+database_common.o: database_common.cpp
+	$(CPP) -c database_common.cpp -o database_common.o $(CXXFLAGS)
+
+database_mysql.o: database_mysql.cpp
+	$(CPP) -c database_mysql.cpp -o database_mysql.o $(CXXFLAGS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+memory.o: memory.cpp
+	$(CPP) -c memory.cpp -o memory.o $(CXXFLAGS)
+
+protocal.o: protocal.cpp
+	$(CPP) -c protocal.cpp -o protocal.o $(CXXFLAGS)
+
+server.o: server.cpp
+	$(CPP) -c server.cpp -o server.o $(CXXFLAGS)
+
+sock.o: sock.cpp
+	$(CPP) -c sock.cpp -o sock.o $(CXXFLAGS)
+
+user.o: user.cpp
+	$(CPP) -c user.cpp -o user.o $(CXXFLAGS)

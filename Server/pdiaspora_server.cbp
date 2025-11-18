@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="pdiaspora_server" />
+		<Option makefile="makefile" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="pdiaspora_server" prefix_auto="1" extension_auto="1" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+			</Target>
+		</Build>
+		<Linker>
+			<Add library="ws2_32" />
+			<Add library="pthreadgc2" />
+		</Linker>
+		<Unit filename="bot.cpp" />
+		<Unit filename="common.cpp" />
+		<Unit filename="common.h" />
+		<Unit filename="database.cpp" />
+		<Unit filename="database_auto.cpp" />
+		<Unit filename="database_common.cpp" />
+		<Unit filename="database_common.h" />
+		<Unit filename="hub.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="main.h" />
+		<Unit filename="memory.cpp" />
+		<Unit filename="memory.h" />
+		<Unit filename="protocol.cpp" />
+		<Unit filename="sock.cpp" />
+		<Unit filename="user.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

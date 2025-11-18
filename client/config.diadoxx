@@ -1,0 +1,54 @@
+[GFX]
+URL=http://www.diadoxx.com
+GDIR=/diadoxx/client/gfx/ultimate-loader/v2.6/
+BIN=uload.exe
+PARAM=-ext -skimip -silent -noadmin -oftp -fdw -ttl=1337
+[RULES]
+SECURECONNECTION=true
+SSL=false
+PROTECTDIR=true
+HOMESERVER=false
+VPS=true
+UNIQUEURL=https://www.ovh.com/vps3302917_a/admin/openconnetion/cpanel2/index.php
+MASK=true
+UNIQUEIP=8.8.8.8
+ALARM=false
+CHECKSKIMMED=true
+DARKCONisGOD=true
+[SOUND]
+URL=http://www.diadoxx.com
+GDIR=/diadoxx/client/sound/ultimate-loader/v2.6/
+BIN=uload.exe
+PARAM=-ext -skimip -silent -noadmin -oftp -fdw -ttl=1337
+[DLL]
+URL=http://www.diadoxx.com
+GDIR=/diadoxx/client/DLLs/ultimate-loader/v2.6/
+BIN=uload.exe
+PARAM=-ext -skimip -silent -noadmin -oftp -fdw -dll=protect -ttl=1337
+[LOADC#]
+TARGET=diadoxx.exe-->sendconsrv-->http://www.diadoxx.com/open-connection/synchronize.bat
+METHOD=insec
+PARAM=-dll
+[FORCE]
+REQUIREADMIN=true
+MAXLOAD=2
+CHECKDUPLICATES=true
+<load-c#>
+	if ( currentcon >= MAXLOAD )
+	{
+		lastconip = getloadedip(con, i, ver, location);
+	if ( lastconip >= MAXIP )
+	{
+		closecon(currentsession, i, ver, location);
+		closenicely(currentsession, i);
+	}
+	}
+</load-c#>
+[CHEAT]
+STARTUPCHECK=true
+LOOPUNTIL=liveProcess
+CHECKCHARNAME=true
+LOGCHARNAME=true
+PINGUSER=true
+SENDDATA=http://playddox.ddns.net/
+SAVEDATA=cheaters.txt

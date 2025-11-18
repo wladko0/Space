@@ -1,0 +1,407 @@
+help,award_user_ship_loaded
+award_user_ship_loaded,Popov,Diadoxx,21,7,18,0,3,750000,5
+set_user_money,Darkcon,531230
+award_user_ship,darkcon,diadoxx,3,4
+award_user_ship,darkcon,diadoxx,3,3
+set_user_exp,Darkcon,54
+help
+award_user_ship,darkcon,diadoxx,2,7
+award_user_ship,darkcon,diadoxx,1,7
+award_user_ship_loaded,zed,diadoxx,1,7,5,0,0,0
+award_user_ship_loaded,zed,diadoxx,1,7,5,0,0,0,0
+award_user_ship_loaded,zed,diadoxx,1,7,6,0,0,0,0
+award_user_ship_loaded,zed,diadoxx,1,7,18,0,0,0,0
+set_user_money,zed,200000
+award_user_ship_loaded,zed,diadoxx,1,7,18,0,0,0,0
+award_user_ship_loaded,zed,diadoxx,1,7,18,0,0,0
+award_user_ship_loaded,zed,diadoxx,1,7,19,0,0,0,0
+award_user_ship_loaded,zed,diadoxx,1,7,17,0,0,0,0
+award_user_ship_loaded,zed,diadoxx,1,7,18,0,0,0,0
+award_user_ship_loaded,zed,diadoxx,18,0,0,0,0
+award_user_ship_loaded,zed,diadoxx,18,0,0,0
+award_user_ship_loaded,zed,diadoxx,1,7,18,0,0,0,0
+
+award_user_ship_loaded,zed,diadoxx,1,7,18,0,0,0,0
+award_user_ship_loaded,zed,diadoxx,1,7,18,0,0,0,0
+award_user_ship_loaded,zed,diadoxx,1,7,18,0,0,0,0
+award_user_ship_loaded,zed,diadoxx,1,7,18,0,0,0,0
+award_user_ship_loaded,zed,diadoxx,1,7,18,0,0,0,0
+award_user_ship_loaded,zed,diadoxx,1,7,18,0,0,0,0
+award_user_ship_loaded,zed,diadoxx,1,7,18,0,0,0,0
+award_user_ship_loaded,darkcon,diadoxx,1,7,18,0,0,0,0
+award_user_ship_loaded,darkcon,diadoxx,1,7,18,0,0,0,1
+award_user_ship_loaded,darkcon,diadoxx,1,7,18,0,0,0,0
+award_user_ship_loaded,zed,diadoxx,1,7,18,0,0,0,0
+award_user_ship_loaded,zed,diadoxx,1,7,18,0,0,0,0
+award_user_ship_loaded,zed,diadoxx,1,7,18,0,0,0,0
+award_user_ship_loaded,zed,diadoxx,1,7,18,0,0,0,0
+award_user_ship_loaded,Darkcon,Diadoxx,1,7,11,0,0,0,0
+award_user_ship_loaded,Darkcon,Diadoxx,1,7,12,0,0,0,0
+award_user_ship_loaded,Darkcon,Diadoxx,1,7,13,0,0,0,0
+award_user_ship_loaded,Darkcon,Diadoxx,1,7,14,0,0,0,0
+award_user_ship_loaded,Darkcon,Diadoxx,1,7,15,0,0,0,0
+award_user_ship_loaded,Darkcon,Diadoxx,1,7,16,0,0,0,0
+award_user_ship_loaded,Darkcon,Diadoxx,1,7,17,0,0,0,0
+award_user_ship_loaded,darkcon,diadoxx,7,7,18,0,2,0,0
+award_user_ship_loaded,zed,diadoxx,7,7,18,0,2,0,0
+award_user_ship_loaded,zed,diadoxx,6,7,18,0,2,0,0
+award_user_ship_loaded,zed,diadoxx,8,7,18,0,2,0,0
+set_user_exp,darkcon,5432
+set_user_exp,zed,2813
+set_user_exp,darkcon,0
+set_user_exp,zed,0
+set_user_exp,darkcon,6000
+set_user_exp,zed,3000
+set_user_exp,darkcon,0
+set_user_exp,darkcon,269
+set_user_exp,zed,361
+award_user_ship_loaded,darkcon,diadoxx,3,7,18,0,2,0,0
+set_user_exp,zed,2640
+award_user_ship_loaded,darkcon,diadoxx,7,7,18,0,2,0,0
+set_user_exp,darkcon,2644
+award_user_ship_loaded,darkcon,diadoxx,7,7,18,0,2,0,0
+set_user_exp,darkcon,7300
+help
+help,award_user_ship_loaded
+award_user_ship_loaded,Popov,Diadoxx,21,7,18,0,3,0
+award_user_ship_loaded,Popov,Diadoxx,21,7,18,0,3,0
+award_user_ship_loaded,Popov,Diadoxx,21,7,18,0,3
+award_user_ship_loaded,Popov,Diadoxx,21,7,18,0
+award_user_ship_loaded,Popov,Diadoxx,21,7,18,1
+award_user_ship_loaded,Popov,Diadoxx,21,7,18,1.1
+award_user_ship_loaded,Popov,Diadoxx,21,7,18,1,1
+award_user_ship_loaded,popov,diadoxx,21,7,18,0,3,0
+onlineusers
+help,award_user_ship_loaded
+award_user_ship_loaded,Popov,Diadoxx,21,7,18,0,3,0
+award_user_ship_loaded,Popov,Diadoxx,21,7,18,0,3,10
+award_user_ship_loaded,Popov,Diadoxx,21,7,18,0,3,10
+set_user_exp,popov,7777
+award_user_ship_loaded,Popov,Diadoxx,21,7,18,0,3,10
+award_user_ship_loaded,Popov,pdiaspora,21,7,18,0,3,10
+award_user_ship_loaded,Popov,Diadoxx,21,7,18,0,3,0
+award_user_ship_loaded,Popov,Diadoxx,21,7,18,3
+award_user_ship_loaded,Popov,pdiaspora,10,7,18,0,3,0
+award_user_ship_loaded,Popov,diadoxx,10,7,18,0,3,0
+award_user_ship_loaded,diadoxx,popov,10,7,18,0,3,0
+help
+activateuser,popov
+activate_user,popov
+help,give_spacenames
+help,award_user_ship
+award_user_ship,popov,diadoxx,21,7
+award_user_ship,popov,diadoxx,22,7
+set_user_exp,Indzhov,5000
+set_user_money,Indzhov,100000000
+activate_user,indzhov
+help,award_user_ship_loaded
+award_user_ship_loaded,indzhov,diadoxx,21,7,20,0,3,75000,0
+award_user_ship_loaded,indzhov,diadoxx,21,7,19,0,3,75000,0
+award_user_ship_loaded,indzhov,diadoxx,21,7,18,0,3,75000,0
+award_user_ship_loaded,popov,diadoxx,22,7,18,0,3,750000,0
+help
+help,award_user_ship_loaded
+award_user_ship_loaded,hardcore,diadoxx,21,7,18,0,3,77777,0
+set_user_exp,indzhov,6000
+set_user_exp,nimrod,7000
+set_user_exp,hardcore,7000
+award_user_ship_loaderd,nimrod,diadoxx,10,7,18,0,3,0
+award_user_ship_loaderd,nimrod,diadoxx,10,7,18,0,3,70000,0
+award_user_ship_loaded,nimrod,diadoxx,10,7,18,0,3,70000,0
+award_user_ship_loaded,hardcore,diadoxx,10,7,18,0,3,70000,0
+help
+help,award_user_ship_loaded
+award_user_ship_loaded,Darkcon,Diadoxx,8,7,22,0,2,20000,0
+award_user_ship_loaded,Darkcon,Diadoxx,8,7,21,0,2,20000,0
+award_user_ship_loaded,Darkcon,Diadoxx,8,7,20,0,2,20000,0
+award_user_ship_loaded,Darkcon,Diadoxx,8,7,19,0,2,20000,0
+award_user_ship_loaded,Darkcon,Diadoxx,8,7,18,0,2,20000,0
+award_user_ship_loaded,Darkcon,Diadoxx,8,7,18,0,2,20000,0
+award_user_ship_loaded,Darkcon,Diadoxx,8,7,18,0,2,20000,0
+award_user_ship_loaded,Darkcon,Diadoxx,8,7,18,0,2,20000,0
+award_user_ship_loaded,Darkcon,Diadoxx,8,7,18,0,2,20000,0
+help,global_message
+global_message.asd
+help,global_message
+global_message,asd
+help,award_user_exp
+award_user_exp,Darkcon,7800
+help,set_user_exp
+set_user_exp,Darkcon,2800
+award_user_exp,Darkcon,8998
+set_user_exp,Darkcon,530
+set_user_exp,Darkcon,0
+set_user_exp,Darkcon,4800
+award_use_exp,Darkcon,1000
+help,award_user_exp
+award_user_exp,Darkcon,100
+award_user_exp,Darkcon,100
+set_user_exp,Darkcon,0
+set_user_exp,Darkcon,5000
+set_user_exp,Darkcon,0
+set_user_exp,Darkcon,5000
+set_user_exp,Darkcon,0
+set_user_exp,Darkcon,10000
+set_user_exp,Darkcon,3657
+help
+help,debugserver
+debugserver,Diadoxx
+debugserver,pDiaspora
+debuguser,Darkconm
+set_user_exp,Darkcon,0
+set_user_exp,Darkcon,800
+help,award_user_ship_loaded
+set_user_exp,darkcon,1380
+set_user_exp,darkcon,1480
+set_user_exp,darkcon,2134
+set_user_money,Darkcon,1000000
+set_user_money,Darkcon,1000000
+set_user_money,darkcon,1000000
+set_user_money,darkcon,1000000
+set_user_money,darkcon,1000000
+set_user_money,darkcon,1000000
+set_user_money,darkcon,1000000
+set_user_money,darkcon,1000000
+set_user_money,darkcon,1000000
+set_user_money,darkcon,1000000
+set_user_money,darkcon,1000000
+set_user_money,darkcon,1000000
+set_user_money,darkcon,1000000
+set_user_money,darkcon,1000000
+set_user_money,darkcon,1000000
+set_user_money,darkcon,1000000
+set_user_money,darkcon,1000000
+set_user_money,darkcon,1000000
+set_user_money,darkcon,1000000
+set_user_money,darkcon,1000000
+set_user_money,darkcon,1000000
+set_user_money,darkcon,2000000
+set_user_money,darkcon,2000000
+set_user_money,darkcon,50000000
+set_user_exp,darkcon,3500
+set_user_exp,popov,698
+set_user_exp,darkcon,811
+set_user_exp,darkcon,2034
+set_user_exp,popov,2132
+set_user_exp,Darkcon,801
+set_user_exp,Popov,799
+set_user_exp,darkcon,3800
+set_user_money,Darkcon,10000000
+set_user_money,darkcon,30000000
+set_user_exp,Darkcon,2857
+set_user_exp,Popov,2981
+set_user_exp,darkcon,2100
+set_user_exp,popov,2100
+set_user_money,darkcon,200000000
+set_user_money,popov,200000000
+set_user_exp,darkcon,4500
+set_user_money,darkcon,300000000
+award_user_exp,Darkcon,20000
+award_user_exp,Popov,20000
+set_user_exp,Popov,1800
+set_user_exp,Popov,3000
+set_user_exp,darkcon,2800
+set_user_exp,popov,2800
+set_user_exp,popov,1900
+set_user_exp,popov,3200
+help,award_user_ship_loaded
+award_user_ship_loaded,Popov,Diadoxx,8,7,18,0,3,0,0
+set_user_exp,popov,4000
+help,award_user_ship_loaded
+award_user_ship_loaded,darkcon,diadoxx,8,7,18,0,3,13578,0
+award_user_ship_loaded,darkcon,diadoxx,8,7,18,0,3,40008,0
+award_user_ship_loaded,darkcon,diadoxx,8,7,18,0,3,5000,0
+set_user_money,Darkcon,123456789
+set_user_money,popov,123456789
+set_user_exp,popov,100
+set_user_money,darkcon,888888888
+set_user_exp,popov,55000
+set_user_exp,darkcon,55000
+set_user_kills,darkcon,999
+help
+help,award_user_ship
+award_user_ship,popov,diadoxx,8,7
+award_user_ship,popov,diadoxx,8,7
+award_user_ship,popov,diadoxx,8,7
+help,spawn_server_bot
+spawn_server_bot,diadoxx,xi loki
+spawn_server_bot,diadoxx,xi loki
+spawn_server_bot,diadoxx,xi sicore
+spawn_server_bot,diadoxx,xi loki
+spawn_server_bot,diadoxx,xi sicore
+set_user_money,popov,1000000
+set_user_money,popov,999999
+set_user_money,popov,2000000
+help,award_user_ship_loaded
+award_user_ship_loaded,Darkcon,Diadoxx,8,7,18,0,3,20000,100
+help,global_message
+global_message - Komandite v igrata se aktivirat s "!" .. Primer !help:: ili !stat:: ... Za da pishete v gildiqta polzvaite !g::suobshtenie
+global_message,Komandite v igrata se aktivirat s "!" .. Primer !help:: ili !stat:: ... Za da pishete v gildiqta polzvaite !g::suobshtenie
+global_message,Komandite v igrata se aktivirat s "!" .. Primer !help:: ili !stat:: ... Za da pishete v gildiqta polzvaite !g::suobshtenie
+global_message,Komandite v igrata se aktivirat s "!" .. Primer !help:: ili !stat:: ... Za da pishete v gildiqta polzvaite !g::suobshtenie
+global_message,Ako imate osushtestven private chat s daden chovek ili mnogo hora moje da pishete s tqh v grafata Private Chat nezavisimo dali te sa na vashata tochka!
+global_message,Ako nekoi e reshil da flood igrata da si pomisle 2 puti :D
+help
+help,loader_server_files
+help,destroy_sat
+destroy_sat,Diadoxx,Lauis Metis
+global_message,Bez panika .. prosto nebrejen reset na servera :D
+set_user_money,gladiator,30000
+set_user_money,conqueror,30000
+set_user_money,conqueror,30000
+set_user_money,gladiator,30000
+set_user_money,admiral,30000
+set_user_money,admlral,30000
+global_message,KOMANDATA ZA PISANE V GILDIQTA E !g::suobshtenie
+global_message,KOMANDATA ZA PISANE V GILDIQTA E !g::suobshtenie
+global_message,KOMANDATA ZA PISANE V GILDIQTA E !g::suobshtenie
+global_message,KOMANDATA ZA PISANE V GILDIQTA E !g::suobshtenie
+global_message,PISHETE !help:: za spisuk s komadite ! VSICHKI KOMANDI SE PISHAT PO TOZI NACHIN (PRIMER: !pricechange:: ili !help:: !stat:: I T.N.
+global_message,PISHETE !help:: za spisuk s komadite ! VSICHKI KOMANDI SE PISHAT PO TOZI NACHIN (PRIMER: !pricechange:: ili !help:: !stat:: I T.N.
+global_message,ZA DA VIDITE CENITE NA KARGO NA DADENA PLANETA PISHETE !trade::Ime Na Planeta (Primer: !trade::Lauis Metis ili !trade::Sejeen)
+global_message,KATO STE V TRADE CENTER NA DADENA PLANETA NATISNETE NA VIEW TRADE NEWS I SHTE VI IZPISHE NAI DOBRATA TARGOVIQ OT PLANETATA NA KOQTO STE KUM NAI BLIZKATA DO NEQ PLANETA
+global_message,MISLQ CHE NQMA VECHE NQMA DA IMA PREKUSVANE NA SERVERA, PRIQTNA IGRA!
+global_message,Ako iskate moga da vdigna malko cenite na kargoto. Za celta trebva da spiram servera i moje da vurne malko nazad. Vie si precenqvaite. Pishete mi v igrata -> Darkcon
+global_message,Ebawam se be nema da digam nishto mucheite se .. Sho mi dreme ? :D
+global_message,Na koi ne go kefe da igrae DarkSpace #GG
+global_message,Sait za trade nqma i ne e nujen! Kato ste na planetata v trade center i si pusnete view trade news vi pokazva nai dolu kum koq planeta ot vasheto tekushto mestopolojenie e nai hubava targoviqta i ot koe element.Kioraw da si ki go widish deba maamu ...
+global_message,(Darkcon) :: Za nerazbralite komandata za pisane v gildiqta e !g::suobshtenie kakto i vsichki komandi v igrata se pishat s "!" nai otpred. Za poveche info otnosno komandite pishete !help::
+(Darkcon) :: Koko sopri da iznudwash horata za pari we :D
+global_message,(Darkcon) :: Koko sopri da iznudwash horata za pari we :D
+global_message,Abe komandata za pisane v gildiqta moje i da e :g:: a moje i da e !g:: ne sum siguren :D
+global_message,(Darkcon) :: Sichki admini oswen men sa IDIOTI :D
+global_message,(Darkcon) :: KIIIINGTIIIIME chekam te da napraish pari za balka i ki te popna xD
+global_message,(Darkcon) :: KIIINGTIIIIME nali znaish che moga da chetesh sho pishish v gildiqta tapak ? :D
+global_message,(Darkcon) :: da chetem* izwinqwam se chat pak sum negramoten :D
+global_message,(Darkcon) :: Twa mai e ot natkoticite T_T
+destroy_sat,diadoxx,sejeen
+destroy_sat,diadoxx,jen cando
+help,award_ship_loaded
+help,award_user_ship_loaded
+award_user_ship_loaded,Darkcon,Diadoxx,9,7,18,0,3,20000,0
+spawn_server_bot,Diadoxx,Xi Loki
+spawn_server_bot,Diadoxx,Xi Sicore
+global_message,(Darkcon) :: Sho se oplakwate che sa ewtini cenite na kargoto i ne moje da praite pari ? Wse pak te w Bulgariq wie sho iskate ? :D
+global_message,(Darkcon) :: Eii kato idete na planetata i wlezete w "Trade Center" cukate na "GOTO TRADE NEWS" i vi pishe nai dolu s cherveni bukvi ko koi element da vzimate i na koq planeta da prodavate! Primer: Kw here, Pa at Gen Pelein oznachawa che nai dobrata turgowiq za tazi planeta e da wzimate KW ot neq i da go prodavate na Gen Pelein, kato ot Gen Pelein vzimate PA i go prodavate na prednata planeta.
+Darkcon e mnogo prost da si znaete
+global_message,Darkcon e mnogo prost da si znaete
+help
+help
+help,change_admin_password
+change_admin_password,q44
+close_nicely
+help
+global_message,(Darkcon) :: Spiram servera za update sled okolo 40 min. Shte se iziskva nov client! Link za svalqne shte moje da namerite v grupata na igrata vuv facebook!
+global_message,(Darkcon) :: Shte pisha pak 5 min predi da spra servera! Dishaite spokoino vrushtaneto nazad pri spirane na servera e opraveno.
+global_message,(Darkcon) :: Sled 10 min spiram servera za update! Shte se iziskva nov client koito moje da svalite ot stranicata vuv facebook!
+help
+spawn_server_bot,Diadoxx,Xi Loki
+global_message,(Darkcon) :: 5 min do spiraneto na servera !!
+read_userdb
+red_server
+read_server
+help,read_server
+read_userdb
+read_server
+read_serverdb
+red_userdb
+read_userdb
+help
+help,deactivate_user
+deactivate_user,darkcon
+help,award_user_ship_loaded
+award_user_ship_loaded,Diadoxx,9,7,21,0,3,0,0
+award_user_ship_loaded,Diadoxx,9,7,20,0,2,0,0
+award_user_ship_loaded,Diadoxx,9,7,18,0,2,0,0
+award_user_ship,Admin,Diadoxx,9,7,21,0,2,0,0
+activate_user,Admin
+award_user_ship_loaded,Admin,Diadoxx,9,7,21,0,2,0,0
+award_user_ship_loaded,Admin,Diadoxx,9,7,20,0,2,0,0
+award_user_ship_loaded,Admin,Diadoxx,9,7,28,0,2,0,0
+award_user_ship_loaded,Admin,Diadoxx,9,7,18,0,2,0,0
+close_nicely
+help
+set_user_exp,Administrator,10000
+activate_user,Administrator
+change_password,silver123456789
+help
+change_admin_password,silver123456789
+set_user_exp,acab,5300
+set_user_money,alcab,5300
+award_user_ship,alcab,diadoxx,9,7
+award_user_ship,alcab,lightspace,9,7
+award_user_ship,alcab,lightspace,9,5
+award_user_ship,acab,lightspace,9,5
+award_user_exp,alcab,300
+award_user_exp,alcab,5300
+award_user_exp,acab,5600
+award_user_exp,acab,-5600
+award_user_exp,acab,300
+award_user_exp,acab,300
+award_user_exp,alcab,530
+awarD_user_money,acab,10000000
+awarD_user_money,alcab,10000000
+awarD_user_ship,admin,lightspace,10,7
+awarD_user_ship,admin,lightspace,11,7
+awarD_user_ship,admin,lightspace,9,7
+awarD_user_ship,admin,lightspace,12,7
+awarD_user_ship,admin,lightspace,13,7
+award_user_exp,admin,5000
+award_user_exp,admin,5000
+award_user_ship,administrator,lightspace,3,7
+award_user_ship,administrator,lightspace,8,3
+award_user_ship,administrator,lightspace,8,4
+award_user_ship,administrator,lightspace,7,4
+award_user_ship,administrator,lightspace,6,4
+activate_user_acab
+activate_user,acab
+activate_user,alcab
+award_user_exp,admin,6300
+award_user_exp,admin,-6300
+award_user_exp,admin,-6300
+award_user_exp,admin,-6300
+award_user_exp,admin,500
+award_user_exp,admin,5000
+award_user_exp,admin,-1000
+award_user_exp,administrator,1
+award_user_exp,administrator,800
+awarD_user_ship,alcab,lightspace,13,7
+awarD_user_ship,acab,lightspace,13,7
+award_user_exp,acab,5000
+award_user_exp,alcab,5000
+onlineusers
+onlineusers
+@help
+help
+list_week_player
+list_week_players
+destroy_sat,gen pelein
+destroyer_sat,gen pelein
+help
+close_nicely
+help,award_user_ship,loaded
+help,award_user_ship,loaded
+
+
+
+
+help,award_user_ship,loaded
+award_user_ship,admin,lightspace,13,7,20000
+award_user_ship,admin,lightspace,13,7,2000
+award_user_ship,loaded,lightspace,admin,9,7,20000
+award_user_ship,loaded,admin,lightspace,9,7,20000
+help_award_user_ship,loaded
+help
+help,award_user_ship,loaded
+award_user_ship,admin,lightspace,9,7,
+award_user_ship_loaded,admin,lightspace,9,7,2000
+help,award_user_ship_loaded
+help,award_user_ship_loaded,admin,lightspace,13,7,18,0,3,2000
+help,award_user_ship_loaded,admin,lightspace,13,7,18,0,3,2000
+award_user_ship_loaded,admin,lightspace,13,7,10,0,2,2000,2
+award_user_ship_loaded,admin,lightspace,13,7,18,0,2,20000,0
+award_user_ship_loaded,admin,lightspace,13,7,18,0,3,20000,0
+spawn_server_bot,lightspace,xi loki
+spawn_server_bot,lightspace,transgressor
+spawn_Server_bot,lightspace,xi loki
+spawn_Server_bot,lightspace,transgressor

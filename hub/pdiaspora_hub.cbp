@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="pdiaspora_hub" />
+		<Option makefile="makefile" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="pdiaspora_hub" prefix_auto="1" extension_auto="1" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+			</Target>
+		</Build>
+		<Linker>
+			<Add library="ws2_32" />
+		</Linker>
+		<Unit filename="admin.cpp" />
+		<Unit filename="common.cpp" />
+		<Unit filename="common.h" />
+		<Unit filename="database.cpp" />
+		<Unit filename="database_auto.cpp" />
+		<Unit filename="database_common.cpp" />
+		<Unit filename="database_common.h" />
+		<Unit filename="database_mysql.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="main.h" />
+		<Unit filename="memory.cpp" />
+		<Unit filename="memory.h" />
+		<Unit filename="protocal.cpp" />
+		<Unit filename="server.cpp" />
+		<Unit filename="sock.cpp" />
+		<Unit filename="user.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

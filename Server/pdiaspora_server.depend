@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1223873112 source:d:\diadoxx\diadoxx source\pdiaspora_server\database_auto.cpp
+	"main.h"
+
+1515652816 d:\diadoxx\diadoxx source\pdiaspora_server\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctime>
+	<sys/timeb.h>
+	<errno.h>
+	<math.h>
+	<errno.h>
+	<vector>
+	<string>
+	<windows.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<sys/param.h>
+	<sys/ioctl.h>
+	<arpa/inet.h>
+	<poll.h>
+	"database_common.h"
+	"common.h"
+
+1509719733 d:\diadoxx\diadoxx source\pdiaspora_server\database_common.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1510736904 d:\diadoxx\diadoxx source\pdiaspora_server\common.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+	<sys/timeb.h>
+	<math.h>
+	<windows.h>
+	<direct.h>
+	<unistd.h>
+	<sys/stat.h>
+
+1508413993 source:d:\diadoxx\diadoxx source\pdiaspora_server\database_common.cpp
+	"main.h"
+
+1243326956 source:d:\diadoxx\diadoxx source\pdiaspora_server\memory.cpp
+	"main.h"
+
+1515464533 source:d:\diadoxx\diadoxx source\pdiaspora_server\bot.cpp
+	"main.h"
+
+1515463696 source:d:\diadoxx\diadoxx source\pdiaspora_server\common.cpp
+	"common.h"
+	"database_common.h"
+
+1515464103 source:d:\diadoxx\diadoxx source\pdiaspora_server\database.cpp
+	"main.h"
+
+1515430007 source:d:\diadoxx\diadoxx source\pdiaspora_server\hub.cpp
+	"main.h"
+
+1515428011 source:d:\diadoxx\diadoxx source\pdiaspora_server\main.cpp
+	"main.h"
+
+1515466478 source:d:\diadoxx\diadoxx source\pdiaspora_server\protocol.cpp
+	"main.h"
+
+1515428115 source:d:\diadoxx\diadoxx source\pdiaspora_server\sock.cpp
+	"main.h"
+
+1515590193 source:d:\diadoxx\diadoxx source\pdiaspora_server\user.cpp
+	"main.h"
+	<sstream>
+
+1573233102 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_server\bot.cpp
+	"main.h"
+
+1515652816 c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_server\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctime>
+	<sys/timeb.h>
+	<errno.h>
+	<math.h>
+	<errno.h>
+	<vector>
+	<string>
+	<windows.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<sys/param.h>
+	<sys/ioctl.h>
+	<arpa/inet.h>
+	<poll.h>
+	"database_common.h"
+	"common.h"
+
+1573495419 c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_server\database_common.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1573495421 c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_server\common.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+	<sys/timeb.h>
+	<math.h>
+	<windows.h>
+	<direct.h>
+	<unistd.h>
+	<sys/stat.h>
+
+1573495226 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_server\common.cpp
+	"common.h"
+	"database_common.h"
+
+1515464103 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_server\database.cpp
+	"main.h"
+
+1223876712 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_server\database_auto.cpp
+	"main.h"
+
+1508417593 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_server\database_common.cpp
+	"main.h"
+
+1515430007 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_server\hub.cpp
+	"main.h"
+
+1515428011 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_server\main.cpp
+	"main.h"
+
+1243330556 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_server\memory.cpp
+	"main.h"
+
+1515466478 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_server\protocol.cpp
+	"main.h"
+
+1573495476 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_server\sock.cpp
+	"main.h"
+
+1573485751 source:c:\users\windows 10 pro\desktop\diadoxx source\pdiaspora_server\user.cpp
+	"main.h"
+	<sstream>
+
